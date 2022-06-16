@@ -30,6 +30,7 @@
 
     .social-list a{
         margin: 15px;
+        display: inline-block;
     }
 }
 
