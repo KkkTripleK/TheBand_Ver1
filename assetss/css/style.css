@@ -345,6 +345,7 @@ html{
     font: 1.4px;
     text-decoration: none;  
     color: #fff; 
+    cursor: pointer;
 }
 
 .place-buy-btn:hover{
